@@ -1,0 +1,5 @@
+scipy
+streamlit
+pandas
+numpy
+langchain
