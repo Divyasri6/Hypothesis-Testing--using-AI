@@ -1,2 +1,3 @@
 # Statistics_testing
  Hypothesis testing
+This project is a versatile hypothesis testing tool designed to assist users in performing statistical tests on their data. It allows users to input data manually or upload a CSV file, providing flexibility and convenience. The tool leverages OpenAI's API to offer guidance on the most suitable hypothesis test based on the data description. Users can perform Z-tests and T-tests with clear interpretations of the results, enhancing their data analysis capabilities.![image](https://github.com/Divyasri6/Statistics_testing/assets/76198784/73613a5c-aac0-472d-8d88-819f3ce595ed)
